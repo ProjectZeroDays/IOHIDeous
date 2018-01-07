@@ -7,3 +7,5 @@
 /data/kaslr
 /src/helper/helper
 /src/helper/helper_bin.c
+xcuserdata/
+*.xcuserdatad
